@@ -147,6 +147,7 @@ $(document).ready(function(){
 			});
 	});
 	$('#more').click(function(){
+		$('#source').empty();
 		setRandomWords($('#source'));
 		$('#dest').empty();
 		$('#dest').append('<li></li>');
