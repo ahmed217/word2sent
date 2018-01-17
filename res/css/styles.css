@@ -1,0 +1,28 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+ul#source{
+	background-color: #48C9B0;
+}
+ul#dest{
+	background-color: #943126;
+}
+
+li  {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: none;
+	margin: 0 10px;
+	/*cursor: all-scroll;*/
+}
+.my-handle {
+  cursor: move;
+  cursor: -webkit-grabbing;
+}
+

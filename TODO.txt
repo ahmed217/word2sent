@@ -1,0 +1,5 @@
+DONE 1. Append something to the log file when new sentence is chosen.
+DONE 2. Fix the score, it is increased by 2. (note: because there are two calls of scoreNow() 
+3. Add sound
+DONE 4. Consider each instance of the brower is a seperate user. 
+ 
